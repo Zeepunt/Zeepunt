@@ -1,3 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zeepunt&show_icons=true&theme=dark"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeepunt"/>
+[![Zeepunt's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeepunt)](https://github.com/anuraghazra/github-readme-stats)
